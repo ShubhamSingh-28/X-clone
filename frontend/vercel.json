@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://x-server-aflt.onrender.com/api/$1"
+    }
+  ]
+}
